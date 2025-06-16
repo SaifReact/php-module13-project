@@ -1,0 +1,22 @@
+
+---
+
+## 🔧 How to Use
+
+1. **Clone or Download** the repository.
+2. Open `registration.html` in any web browser.
+3. Fill out the form and view the styles and layout in action.
+
+---
+
+## 📚 Customization Tips
+
+- You can change the background by editing the `body` CSS in the `<style>` tag.
+- Modify input styles, colors, or layout spacing as needed.
+- To make it functional (e.g., saving form data), use a backend language like PHP, Node.js, or connect to a database.
+
+---
+
+## 📃 License
+
+This project is open-source and free to use for learning and development purposes.
